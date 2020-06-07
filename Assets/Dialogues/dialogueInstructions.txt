@@ -1,0 +1,2 @@
+﻿textSpeed/textAnimations/characterExpressions/dialogue
+fast/none/none/Good evening mister <Melon Tuna>. What brings you here?

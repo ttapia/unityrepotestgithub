@@ -1,0 +1,2 @@
+﻿fast/none/none/What are you waiting for? Go through the labyrinth.
+slow/none/none/I'll wait for you here.
